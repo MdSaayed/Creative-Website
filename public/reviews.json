@@ -1,0 +1,21 @@
+[
+    {
+      "review": "With Ehya, we're able to easily track our performance in full detail. It's become an essential tool for us to grow and engage with our audience.",
+      "name": "Jaquon Hart",
+      "companyName": "Hypebeast",
+      "img": "https://i.ibb.co/10Ph75S/Photo.png"
+    },
+    {
+      "review": "Ehya has transformed the way we manage our business. The platform's features are powerful and user-friendly, making it an invaluable asset for our growth.",
+      "name": "Alicia Johnson",
+      "companyName": "Tech Innovators",
+      "img": "https://i.ibb.co/xyz123/AnotherPhoto.png"
+    },
+    {
+      "review": "We've been using Ehya for a while now, and it has significantly improved our efficiency. The analytics and reporting tools are top-notch, helping us make data-driven decisions.",
+      "name": "John Doe",
+      "companyName": "Digital Solutions Co.",
+      "img": "https://i.ibb.co/456def/SomePhoto.png"
+    }
+  ]
+  
